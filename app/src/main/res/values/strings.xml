@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SharedPreference</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="enter_age">Enter age</string>
+    <string name="enter_name">Enter name</string>
+    <string name="load">Load</string>
+    <string name="save">Save</string>
 </resources>
